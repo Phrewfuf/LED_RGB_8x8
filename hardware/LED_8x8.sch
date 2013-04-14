@@ -4369,7 +4369,7 @@ Source: http://www.murata.com .. GRM43DR72E224KW01.pdf</description>
 <parts>
 <part name="U$1" library="shack" deviceset="TLC5947" device=""/>
 <part name="U$3" library="shack" deviceset="LED_RGB_8X8" device=""/>
-<part name="IC1" library="74xx-eu" deviceset="74*595" device="N" technology="HC"/>
+<part name="IC1" library="74xx-eu" deviceset="74*595" device="D" technology="HC" value="74HC595D"/>
 <part name="Q1" library="transistor-npn" deviceset="BC548*" device=""/>
 <part name="Q2" library="transistor-npn" deviceset="BC548*" device=""/>
 <part name="Q3" library="transistor-npn" deviceset="BC548*" device=""/>
