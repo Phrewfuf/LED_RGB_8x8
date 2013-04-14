@@ -180,38 +180,38 @@
 <text x="-5.08" y="6.35" size="1.27" layer="25">TLC5947DAP</text>
 </package>
 <package name="LED_RGB_8X8">
-<pad name="P1" x="-19.05" y="-22.88" drill="0.8" shape="square" rot="R90"/>
-<pad name="P18" x="-16.51" y="22.88" drill="0.8"/>
-<pad name="P19" x="-13.97" y="22.88" drill="0.8"/>
-<pad name="P20" x="-11.43" y="22.88" drill="0.8"/>
-<pad name="P21" x="-8.89" y="22.88" drill="0.8"/>
-<pad name="P22" x="-6.35" y="22.88" drill="0.8"/>
-<pad name="P23" x="-3.81" y="22.88" drill="0.8"/>
-<pad name="P24" x="-1.27" y="22.88" drill="0.8"/>
-<pad name="P25" x="1.27" y="22.88" drill="0.8"/>
-<pad name="P26" x="3.81" y="22.88" drill="0.8"/>
-<pad name="P27" x="6.35" y="22.88" drill="0.8"/>
-<pad name="P28" x="8.89" y="22.88" drill="0.8"/>
-<pad name="P29" x="11.43" y="22.88" drill="0.8"/>
-<pad name="P30" x="13.97" y="22.88" drill="0.8"/>
-<pad name="P31" x="16.51" y="22.88" drill="0.8"/>
-<pad name="P32" x="19.05" y="22.88" drill="0.8"/>
-<pad name="P17" x="-19.05" y="22.88" drill="0.8"/>
-<pad name="P2" x="-16.51" y="-22.88" drill="0.8"/>
-<pad name="P3" x="-13.97" y="-22.88" drill="0.8"/>
-<pad name="P4" x="-11.43" y="-22.88" drill="0.8"/>
-<pad name="P5" x="-8.89" y="-22.88" drill="0.8"/>
-<pad name="P6" x="-6.35" y="-22.88" drill="0.8"/>
-<pad name="P7" x="-3.81" y="-22.88" drill="0.8"/>
-<pad name="P8" x="-1.27" y="-22.88" drill="0.8"/>
-<pad name="P9" x="1.27" y="-22.88" drill="0.8"/>
-<pad name="P10" x="3.81" y="-22.88" drill="0.8"/>
-<pad name="P11" x="6.35" y="-22.88" drill="0.8"/>
-<pad name="P12" x="8.89" y="-22.88" drill="0.8"/>
-<pad name="P13" x="11.43" y="-22.88" drill="0.8"/>
-<pad name="P14" x="13.97" y="-22.88" drill="0.8"/>
-<pad name="P15" x="16.51" y="-22.88" drill="0.8"/>
-<pad name="P16" x="19.05" y="-22.88" drill="0.8"/>
+<pad name="P1" x="-19.05" y="-22.88" drill="0.8" diameter="1.6764" shape="square" rot="R90"/>
+<pad name="P18" x="-16.51" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P19" x="-13.97" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P20" x="-11.43" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P21" x="-8.89" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P22" x="-6.35" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P23" x="-3.81" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P24" x="-1.27" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P25" x="1.27" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P26" x="3.81" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P27" x="6.35" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P28" x="8.89" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P29" x="11.43" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P30" x="13.97" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P31" x="16.51" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P32" x="19.05" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P17" x="-19.05" y="22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P2" x="-16.51" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P3" x="-13.97" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P4" x="-11.43" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P5" x="-8.89" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P6" x="-6.35" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P7" x="-3.81" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P8" x="-1.27" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P9" x="1.27" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P10" x="3.81" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P11" x="6.35" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P12" x="8.89" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P13" x="11.43" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P14" x="13.97" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P15" x="16.51" y="-22.88" drill="0.8" diameter="1.6764"/>
+<pad name="P16" x="19.05" y="-22.88" drill="0.8" diameter="1.6764"/>
 <wire x1="-30.25" y1="30.25" x2="-30.25" y2="-30.25" width="0.254" layer="21"/>
 <wire x1="-30.25" y1="-30.25" x2="30.25" y2="-30.25" width="0.254" layer="21"/>
 <wire x1="30.25" y1="-30.25" x2="30.25" y2="30.25" width="0.254" layer="21"/>
